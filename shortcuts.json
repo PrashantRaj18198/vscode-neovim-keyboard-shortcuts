@@ -1,0 +1,9 @@
+[
+  {
+    // Use jj to return to normal mode only when in insert mode
+    "command": "vscode-neovim.compositeEscape1",
+    "key": "j",
+    "when": "neovim.mode == insert && editorTextFocus",
+    "args": "j"
+  }
+]
