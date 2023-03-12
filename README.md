@@ -12,3 +12,11 @@ vscode neovim keyboard shortcuts
 - Create a soft link between `shortcuts.json` to `keybindigs.json`.
 - This will reflect all changes in your `shortcuts.json` to `keybindings.json` and vice-versa
 which means you can keep your shortcuts in your repo.
+
+## Shortcuts
+
+- `jj` - Return to normal mode
+- `<space><space>` - Save file when in normal mode
+- `gi` - Go to implementation
+- `gw` - Close current editor tab
+- `gq` - Reopen last closed editor tab
